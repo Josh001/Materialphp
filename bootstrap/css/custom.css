@@ -1,0 +1,4 @@
+.btn-primary.btn-flat:not(.btn-link) {
+    color: #009587;
+    margin-left: 1em;
+}
